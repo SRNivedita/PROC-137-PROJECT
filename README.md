@@ -1,1 +1,2 @@
-# PROC-137-PROJECT
+# Planet-Api-App
+Get planets details
